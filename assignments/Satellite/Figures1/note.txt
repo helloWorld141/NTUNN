@@ -1,0 +1,2 @@
+Run from 4 to 64
+Using tf-gpu

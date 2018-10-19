@@ -1,0 +1,135 @@
+Number of examples is: 4435
+2018-10-19 22:05:07.380893: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+(4435, 36)
+(4435, 6)
+(4435, 36)
+(4435, 6)
+Experiment with value of beta = 1e-12
+iter 0: Training accuracy 0.327404
+iter 0: Testing accuracy 0.1985
+iter 100: Training accuracy 0.749311
+iter 100: Testing accuracy 0.6005
+iter 200: Training accuracy 0.830467
+iter 200: Testing accuracy 0.7035
+iter 300: Training accuracy 0.849385
+iter 300: Testing accuracy 0.733
+iter 400: Training accuracy 0.860215
+iter 400: Testing accuracy 0.7535
+iter 500: Training accuracy 0.863635
+iter 500: Testing accuracy 0.772
+iter 600: Training accuracy 0.870594
+iter 600: Testing accuracy 0.7805
+iter 700: Training accuracy 0.874466
+iter 700: Testing accuracy 0.7885
+iter 800: Training accuracy 0.876045
+iter 800: Testing accuracy 0.7915
+iter 900: Training accuracy 0.878076
+iter 900: Testing accuracy 0.7975
+Number of examples is: 4435
+2018-10-19 22:07:26.850448: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+(4435, 36)
+(4435, 6)
+(4435, 36)
+(4435, 6)
+Experiment with value of beta = 1e-09
+iter 0: Training accuracy 0.32333
+iter 0: Testing accuracy 0.1985
+iter 100: Training accuracy 0.751484
+iter 100: Testing accuracy 0.6105
+iter 200: Training accuracy 0.831892
+iter 200: Testing accuracy 0.7025
+iter 300: Training accuracy 0.849717
+iter 300: Testing accuracy 0.7355
+iter 400: Training accuracy 0.860061
+iter 400: Testing accuracy 0.7505
+iter 500: Training accuracy 0.870666
+iter 500: Testing accuracy 0.761
+iter 600: Training accuracy 0.876081
+iter 600: Testing accuracy 0.766
+iter 700: Training accuracy 0.879691
+iter 700: Testing accuracy 0.774
+iter 800: Training accuracy 0.884203
+iter 800: Testing accuracy 0.7775
+iter 900: Training accuracy 0.886911
+iter 900: Testing accuracy 0.781
+Number of examples is: 4435
+2018-10-19 22:09:52.310398: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+(4435, 36)
+(4435, 6)
+(4435, 36)
+(4435, 6)
+Experiment with value of beta = 1e-06
+iter 0: Training accuracy 0.328377
+iter 0: Testing accuracy 0.1985
+iter 100: Training accuracy 0.748029
+iter 100: Testing accuracy 0.6
+iter 200: Training accuracy 0.827867
+iter 200: Testing accuracy 0.6935
+iter 300: Training accuracy 0.842877
+iter 300: Testing accuracy 0.7255
+iter 400: Training accuracy 0.857733
+iter 400: Testing accuracy 0.747
+iter 500: Training accuracy 0.865405
+iter 500: Testing accuracy 0.76
+iter 600: Training accuracy 0.871687
+iter 600: Testing accuracy 0.769
+iter 700: Training accuracy 0.875297
+iter 700: Testing accuracy 0.778
+iter 800: Training accuracy 0.878681
+iter 800: Testing accuracy 0.783
+iter 900: Training accuracy 0.881615
+iter 900: Testing accuracy 0.786
+Number of examples is: 4435
+2018-10-19 22:12:12.580335: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+(4435, 36)
+(4435, 6)
+(4435, 36)
+(4435, 6)
+Experiment with value of beta = 0.001
+iter 0: Training accuracy 0.331952
+iter 0: Testing accuracy 0.1985
+iter 100: Training accuracy 0.730655
+iter 100: Testing accuracy 0.564
+iter 200: Training accuracy 0.803653
+iter 200: Testing accuracy 0.668
+iter 300: Training accuracy 0.820314
+iter 300: Testing accuracy 0.6895
+iter 400: Training accuracy 0.830693
+iter 400: Testing accuracy 0.7035
+iter 500: Training accuracy 0.839528
+iter 500: Testing accuracy 0.7185
+iter 600: Training accuracy 0.849005
+iter 600: Testing accuracy 0.728
+iter 700: Training accuracy 0.852164
+iter 700: Testing accuracy 0.7295
+iter 800: Training accuracy 0.854646
+iter 800: Testing accuracy 0.7305
+iter 900: Training accuracy 0.855774
+iter 900: Testing accuracy 0.735
+Number of examples is: 4435
+2018-10-19 22:15:45.614763: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+(4435, 36)
+(4435, 6)
+(4435, 36)
+(4435, 6)
+Experiment with value of beta = 0
+iter 0: Training accuracy 0.321608
+iter 0: Testing accuracy 0.1985
+iter 100: Training accuracy 0.756116
+iter 100: Testing accuracy 0.596
+iter 200: Training accuracy 0.828734
+iter 200: Testing accuracy 0.6945
+iter 300: Training accuracy 0.84739
+iter 300: Testing accuracy 0.726
+iter 400: Training accuracy 0.859123
+iter 400: Testing accuracy 0.743
+iter 500: Training accuracy 0.866117
+iter 500: Testing accuracy 0.7575
+iter 600: Training accuracy 0.873112
+iter 600: Testing accuracy 0.7755
+iter 700: Training accuracy 0.877624
+iter 700: Testing accuracy 0.785
+iter 800: Training accuracy 0.877173
+iter 800: Testing accuracy 0.787
+iter 900: Training accuracy 0.879204
+iter 900: Testing accuracy 0.789

@@ -1,2 +1,0 @@
-Run from 64 to 4
-Using normal TF (CPU)

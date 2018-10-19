@@ -1,0 +1,136 @@
+Number of examples is: 4435
+2018-10-19 22:07:36.304606: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+(4435, 36)
+(4435, 6)
+(4435, 36)
+(4435, 6)
+Experiment with batch size 32
+iter 0: Training accuracy 0.242874
+iter 0: Testing accuracy 0.1985
+iter 100: Training accuracy 0.358136
+iter 100: Testing accuracy 0.1985
+iter 200: Training accuracy 0.691905
+iter 200: Testing accuracy 0.5075
+iter 300: Training accuracy 0.708351
+iter 300: Testing accuracy 0.525
+iter 400: Training accuracy 0.780788
+iter 400: Testing accuracy 0.61
+iter 500: Training accuracy 0.807509
+iter 500: Testing accuracy 0.659
+iter 600: Training accuracy 0.823276
+iter 600: Testing accuracy 0.679
+iter 700: Training accuracy 0.835957
+iter 700: Testing accuracy 0.694
+iter 800: Training accuracy 0.841845
+iter 800: Testing accuracy 0.7025
+iter 900: Training accuracy 0.848639
+iter 900: Testing accuracy 0.708
+################################################
+##### 5000 epochs #####
+Number of examples is: 4435
+2018-10-19 22:12:18.043821: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+(4435, 36)
+(4435, 6)
+(4435, 36)
+(4435, 6)
+Experiment with batch size 32
+iter 0: Training accuracy 0.25091
+iter 0: Testing accuracy 0.1985
+iter 100: Training accuracy 0.364361
+iter 100: Testing accuracy 0.1985
+iter 200: Training accuracy 0.698525
+iter 200: Testing accuracy 0.507
+iter 300: Training accuracy 0.717662
+iter 300: Testing accuracy 0.5255
+iter 400: Training accuracy 0.786334
+iter 400: Testing accuracy 0.614
+iter 500: Training accuracy 0.812433
+iter 500: Testing accuracy 0.6625
+iter 600: Training accuracy 0.826447
+iter 600: Testing accuracy 0.691
+iter 700: Training accuracy 0.834825
+iter 700: Testing accuracy 0.7025
+iter 800: Training accuracy 0.84442
+iter 800: Testing accuracy 0.7185
+iter 900: Training accuracy 0.850224
+iter 900: Testing accuracy 0.723
+iter 1000: Training accuracy 0.855432
+iter 1000: Testing accuracy 0.7305
+iter 1100: Training accuracy 0.861404
+iter 1100: Testing accuracy 0.7395
+iter 1200: Training accuracy 0.863811
+iter 1200: Testing accuracy 0.7475
+iter 1300: Training accuracy 0.87052
+iter 1300: Testing accuracy 0.7585
+iter 1400: Training accuracy 0.87369
+iter 1400: Testing accuracy 0.764
+iter 1500: Training accuracy 0.876408
+iter 1500: Testing accuracy 0.769
+iter 1600: Training accuracy 0.880173
+iter 1600: Testing accuracy 0.776
+iter 1700: Training accuracy 0.885523
+iter 1700: Testing accuracy 0.7865
+iter 1800: Training accuracy 0.887561
+iter 1800: Testing accuracy 0.797
+iter 1900: Training accuracy 0.888836
+iter 1900: Testing accuracy 0.803
+iter 2000: Training accuracy 0.889884
+iter 2000: Testing accuracy 0.81
+iter 2100: Training accuracy 0.893054
+iter 2100: Testing accuracy 0.8155
+iter 2200: Training accuracy 0.893733
+iter 2200: Testing accuracy 0.8175
+iter 2300: Training accuracy 0.895545
+iter 2300: Testing accuracy 0.8195
+iter 2400: Training accuracy 0.896451
+iter 2400: Testing accuracy 0.8215
+iter 2500: Training accuracy 0.897441
+iter 2500: Testing accuracy 0.8265
+iter 2600: Training accuracy 0.899479
+iter 2600: Testing accuracy 0.8275
+iter 2700: Training accuracy 0.898347
+iter 2700: Testing accuracy 0.8295
+iter 2800: Training accuracy 0.897667
+iter 2800: Testing accuracy 0.8315
+iter 2900: Training accuracy 0.898347
+iter 2900: Testing accuracy 0.832
+iter 3000: Training accuracy 0.899252
+iter 3000: Testing accuracy 0.833
+iter 3100: Training accuracy 0.89911
+iter 3100: Testing accuracy 0.833
+iter 3200: Training accuracy 0.899337
+iter 3200: Testing accuracy 0.8335
+iter 3300: Training accuracy 0.899337
+iter 3300: Testing accuracy 0.833
+iter 3400: Training accuracy 0.900016
+iter 3400: Testing accuracy 0.834
+iter 3500: Training accuracy 0.900611
+iter 3500: Testing accuracy 0.836
+iter 3600: Training accuracy 0.900611
+iter 3600: Testing accuracy 0.836
+iter 3700: Training accuracy 0.901064
+iter 3700: Testing accuracy 0.8365
+iter 3800: Training accuracy 0.901517
+iter 3800: Testing accuracy 0.8365
+iter 3900: Training accuracy 0.902423
+iter 3900: Testing accuracy 0.8365
+iter 4000: Training accuracy 0.902423
+iter 4000: Testing accuracy 0.836
+iter 4100: Training accuracy 0.902423
+iter 4100: Testing accuracy 0.836
+iter 4200: Training accuracy 0.902196
+iter 4200: Testing accuracy 0.8365
+iter 4300: Training accuracy 0.903697
+iter 4300: Testing accuracy 0.837
+iter 4400: Training accuracy 0.903244
+iter 4400: Testing accuracy 0.837
+iter 4500: Training accuracy 0.903697
+iter 4500: Testing accuracy 0.8375
+iter 4600: Training accuracy 0.904603
+iter 4600: Testing accuracy 0.837
+iter 4700: Training accuracy 0.904376
+iter 4700: Testing accuracy 0.836
+iter 4800: Training accuracy 0.90415
+iter 4800: Testing accuracy 0.836
+iter 4900: Training accuracy 0.903923
+iter 4900: Testing accuracy 0.835

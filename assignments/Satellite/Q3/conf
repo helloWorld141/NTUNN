@@ -1,0 +1,1 @@
+{"batch_size": 16, "epochs": 1000, "nhidden": 5}
